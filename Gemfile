@@ -29,12 +29,13 @@ gem 'enumerize'
 gem 'ransack'
 gem 'kaminari'
 gem 'nprogress-rails'
-gem 'magic_userstamp', :git => "git@github.com:bachdx2812/magic_userstamp.git"
+gem 'magic_userstamp', :git => "https://github.com/bachdx2812/magic_userstamp.git"
 gem 'underscore-rails'
 gem 'angularjs-rails'
 gem 'jquery-ui-rails'
 gem "migration_comments"
 gem 'redcarpet'
+gem 'coderay'
 gem 'albino'
 gem 'nokogiri'
 

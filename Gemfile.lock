@@ -1,5 +1,5 @@
 GIT
-  remote: https://github.com/hokichaio/magic_userstamp.git
+  remote: https://github.com/bachdx2812/magic_userstamp.git
   revision: 27de7647669ce6538b35de5d29102c9735796f67
   specs:
     magic_userstamp (0.1.1)
@@ -54,6 +54,7 @@ GEM
     builder (3.2.2)
     byebug (6.0.2)
     cancancan (1.13.1)
+    coderay (1.1.0)
     coffee-rails (4.1.0)
       coffee-script (>= 2.2.0)
       railties (>= 4.0.0, < 5.0)
@@ -204,6 +205,7 @@ DEPENDENCIES
   bootstrap-sass (~> 3.2.0)
   byebug
   cancancan (~> 1.10)
+  coderay
   coffee-rails
   devise
   enumerize
