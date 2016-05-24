@@ -35,6 +35,7 @@ gem 'angularjs-rails'
 gem 'jquery-ui-rails'
 gem "migration_comments"
 gem 'redcarpet'
+gem 'coderay'
 gem 'albino'
 gem 'nokogiri'
 
